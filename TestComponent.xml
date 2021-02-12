@@ -30,7 +30,7 @@
         </parameter>
         <parameter>
           <name>TestSampleVsClientBool</name>
-          <type>Bool</type>
+          <type>bool</type>
           <syntax>bool</syntax>
           <writable>true</writable>
         </parameter>        
