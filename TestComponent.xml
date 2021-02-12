@@ -30,8 +30,8 @@
         </parameter>
         <parameter>
           <name>TestSampleVsClientString</name>
-          <type>String</type>
-          <syntax>char</syntax>
+          <type>string</type>
+          <syntax>string</syntax>
           <writable>true</writable>
         </parameter>        
       </parameters>
