@@ -18,8 +18,6 @@
       	<func_SetParamStringValue>TestComponent_SetParamStringValue</func_SetParamStringValue>
       	<func_GetParamBoolValue>TestComponent_GetParamBoolValue</func_GetParamBoolValue>
       	<func_SetParamBoolValue>TestComponent_SetParamBoolValue</func_SetParamBoolValue>
-        <func_SetVsClientBoolValue>TestComponent_SetVsClientBoolValue</func_SetVsClientBoolValue>
-        <func_GetVsClientBoolValue>TestComponent_GetVsClientBoolValue</func_GetVsClientBoolValue>
       </functions>
       <parameters>
         <parameter>
